@@ -1,4 +1,6 @@
 <h1> Horiseon site </h1>
+
+## Purpose
 <p>This was a code refractor of the site to tidy the html semantics and css grouping</p>
 
 https://jleitz27.github.io/Horiseon
